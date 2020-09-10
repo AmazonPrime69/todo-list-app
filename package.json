@@ -1,0 +1,18 @@
+{
+  "name": "first-electron-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Zachary Robinson",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^9.2.1"
+  },
+  "devDependencies": {
+    "electron-packager": "^15.1.0",
+    "electron-wix-msi": "^3.0.0"
+  }
+}
